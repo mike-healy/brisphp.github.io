@@ -10,7 +10,7 @@ Laravel, to DevOps around deploying and managing PHP applications. We are focuse
 design, development and maintenance of PHP applications, we want to share our experiences and 
 grow the PHP community in Brisbane.
 
-* You can search for our [events on Huddle](https://onhuddle.co/events?q=brisphp&city=Brisbane).
+* You can find our [events on Luma](https://luma.com/brisphp?period=past).
 * We track our talk schedule and requests [on GitHub](https://github.com/BrisPHP/meetups)
 * Join us in the [Brisbane Slack workspace](http://brisbane.herokuapp.com/) in the `#brisphp` channel
 * Follow us on [Twitter](https://twitter.com/brisphp1).
